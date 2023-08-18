@@ -13,7 +13,8 @@ a{
 .banner-left {
     padding-top: 146px;
 }
-/* about section start */
-.about-right{
-    
+/* program section */
+.programSection{
+    background-color: #8490ff;
+    color: white;
 }
