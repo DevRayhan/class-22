@@ -20,6 +20,9 @@ a{
 }
 /* service section start */
 .single-service {
-    box-shadow: 1px 1px 7px #b1a6a6;
     line-height: 47px;
+}
+/* team section */
+.singleteam img{
+    width: 117px;
 }
