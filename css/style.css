@@ -1,1 +1,7 @@
-/* global css change */
+/* menu section */
+.logo img{
+    width: 70px;
+}
+.mainMenu {
+    text-align: right;
+}
